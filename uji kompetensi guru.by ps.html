@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Refleksi Kompetensi Guru</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .question {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>SOAL REFLEKSI KOMPTENSI GURU</h1>
+    <form id="reflectionForm">
+        <div class="question">
+            <h3>1. Berdasarkan Peraturan Pemerintah No. 74 tahun 2008 tentang Guru yang telah dan direvisi melalui Peraturan Pemerintah No. 19 tahun 2017, Kompetensi guru terdri dari :</h3>
+            <label><input type="radio" name="question1" value="3"> a. Pedagogik, Sosial, Kewirausahaan dan Kepribadian</label><br>
+            <label><input type="radio" name="question1" value="1"> b. Pedagogik, Profesional, Kewirausahaan dan Kepribadian</label><br>
+            <label><input type="radio" name="question1" value="5"> c. Kepribadian, Sosial, Profesional dan Pedagogik</label><br>
+            <label><input type="radio" name="question1" value="2"> d. Sosial, Profesional, Sosial, Kewirausahaan dan Pedagogik</label><br>
+            <label><input type="radio" name="question1" value="4"> e. Kepribadian, Kewirausahaan dan Profesional </label>
+        </div>
+        
+        <div class="question">
+            <h3>2. Pada indikator kompetensi  Lingkungan pembelajaran yang aman dan nyaman bagi peserta didik, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question2" value="1"> a.Memahami penting dan manfaat lingkungan pembelajaran yang aman dan nyaman bagi peserta didik</label><br>
+            <label><input type="radio" name="question2" value="2"> b. Menerapkan strategi lingkungan pembelajaran yang aman dan nyaman bagi peserta didik</label><br>
+            <label><input type="radio" name="question2" value="4"> c. Berkolaborasi dengan rekan sejawat terkait strategi implementasi lingkungan pembelajaran yang aman dan nyaman bagi peserta didik</label><br>
+            <label><input type="radio" name="question2" value="3"> d. Mengevaluasi strategi implementasi lingkungan pembelajaran yang aman dan nyaman bagi peserta didik dan merancang perbaikannya</label><br>
+            <label><input type="radio" name="question2" value="5"> e. Membimbing rekan sejawat dalam melakukan strategi implementasi lingkungan lingkungan pembelajaran yang aman dan nyaman bagi peserta didik</label>
+        </div>
+        
+        <div class="question">
+            <h3>3. Pada indikator kompetensi Pembelajaran efektif yang berpusat pada peserta didik, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question3" value="3"> a. Mengevaluasi pembelajaran efektif yang berpusat pada peserta didik dan merancang perbaikannya</label><br>
+            <label><input type="radio" name="question3" value="1"> b. Memahami penting dan manfaat pembelajaran efektif yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question3" value="2"> c. Menerapkan pembelajaran efektif yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question3" value="5"> d. Membimbing rekan sejawat dalam melakukan strategi implementasi pembelajaran efektif yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question3" value="4"> e. Berkolaborasi dengan rekan sejawat terkait pemilihan strategi implementasi pembelajaran efektif yang berpusat pada peserta didik</label>
+        </div>
+        
+        <div class="question">
+            <h3>4. Pada indikator kompetensi Asesmen, umpan balik, dan pelaporan yang berpusat pada peserta didik, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question4" value="5"> a. Membimbing rekan sejawat dalam melakukan asesmen, umpan balik, dan pelaporan yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question4" value="1"> b. Memahami penting dan manfaat asesmen, umpan balik, dan pelaporan yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question4" value="2"> c. Melakukan asesmen, umpan balik, dan pelaporan yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question4" value="4"> d. Berkolaborasi dengan rekan sejawat terkait pelaksanaan asesmen, umpan balik, dan pelaporan yang berpusat pada peserta didik</label><br>
+            <label><input type="radio" name="question4" value="3"> e. Mengevaluasi asesmen, umpan balik, dan pelaporan yang berpusat pada peserta didik dan merancang perbaikannya</label>
+        </div>
+        
+        <div class="question">
+            <h3>5. Pada indikator kompetensi Kematangan moral, emosi, dan spiritual untuk berperilaku sesuai dengan kode etik guru, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question5" value="2"> a. Menerapkan perilaku yang mencerminkan kematangan moral, emosi, dan spiritual untuk berperilaku sesuai dengan kode etik guru </label><br>
+            <label><input type="radio" name="question5" value="4"> b. Berkolaborasi dengan rekan sejawat terkait penerapan perilaku yang mencerminkan kematangan moral, emosi, dan spiritual untuk berperilaku sesuai dengan kode etik guru</label><br>
+            <label><input type="radio" name="question5" value="1"> c. Memahami penting dan manfaat kematangan moral, emosi, dan spiritual untuk berperilaku sesuai dengan kode etik guru</label><br>
+            <label><input type="radio" name="question5" value="5"> d.  Membimbing rekan sejawat dalam penerapan perilaku yang mencerminkan kematangan moral, emosi, dan spiritual untuk berperilaku sesuai dengan kode etik guru</label><br>
+            <label><input type="radio" name="question5" value="3"> e. Mengevaluasi perilaku yang mencerminkan kematangan moral, emosi, dan spiritual untuk berperilaku sesuai dengan kode etik guru dan merencanakan perbaikannya</label>
+        </div>
+        
+        <div class="question">
+            <h3>6. Pada indikator kompetensi Pengembangan diri melalui kebiasaan refleksi, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question6" value="5"> a. Membimbing rekan sejawat dalam membudayakan pengembangan diri melalui kebiasaan refleksi</label><br>
+            <label><input type="radio" name="question6" value="4"> b. Berkolaborasi dengan rekan sejawat terkait penerapan pengembangan diri melalui kebiasaan refleksii.</label><br>
+            <label><input type="radio" name="question6" value="3"> c. Mengevaluasi penerapan pengembangan diri melalui kebiasaan refleksi serta merancang perbaikannya</label><br>
+            <label><input type="radio" name="question6" value="2"> d. Menerapkan pengembangan diri melalui kebiasaan refleksi</label><br>
+            <label><input type="radio" name="question6" value="1"> e. Memahami penting dan manfaat pengembangan diri melalui kebiasaan refleksi</label>
+        </div>
+        
+        <div class="question">
+            <h3>7. Pada indikator kompetensi Orientasi berpusat pada peserta didik, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question7" value="3"> a. Mengevaluasi kebiasaan dalam menempatkan peserta didik sebagai pusat dari pembelajaran dan merancang perbaikannya </label><br>
+            <label><input type="radio" name="question7" value="5"> b. Membimbing rekan sejawat dalam meningkatkan kebiasaan untuk menempatkan peserta didik sebagai pusat dari pembelajaran </label><br>
+            <label><input type="radio" name="question7" value="1"> c. Memahami pentingnya menempatkan peserta didik sebagai pusat dari pembelajaran </label><br>
+            <label><input type="radio" name="question7" value="2"> d. Membiasakan pentingnya menempatkan peserta didik sebagai pusat dari pembelajaran </label><br>
+            <label><input type="radio" name="question7" value="4"> e. Berkolaborasi dengan rekan sejawat terkait kebiasaan dalam menempatkan peserta didik sebagai pusat dari pembelajaran </label>
+        </div>
+        
+        <div class="question">
+            <h3>8. Pada indikator kompetensi Kolaborasi untuk peningkatan pembelajaran, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question8" value="4"> a. Berbagi praktik baik dengan rekan sejawat terkait strategi kolaborasi untuk peningkatan kualitas pembelajaran</label><br>
+            <label><input type="radio" name="question8" value="5"> b. Membimbing rekan sejawat dalam melakukan strategi kolaborasi untuk peningkatan kualitas pembelajaran </label><br>
+            <label><input type="radio" name="question8" value="3"> c. Mengevaluasi strategi kolaborasi untuk peningkatan kualitas pembelajaran dan merancang perbaikannya</label><br>
+            <label><input type="radio" name="question8" value="2"> d. Melakukan kolaborasi untuk peningkatan kualitas pembelajaran</label><br>
+            <label><input type="radio" name="question8" value="1"> e. Memahami fungsi kolaborasi untuk peningkatan kualitas pembelajaran</label>
+        </div>
+        
+        <div class="question">
+            <h3>9. Pada indikator kompetensi Keterlibatan orangtua/wali dan masyarakat dalam pembelajaran, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question9" value="3"> a. Mengevaluasi Pelibatan orangtua/wali dan masyarakat dalam pembelajaran dan merancana strategi pelibatan yang lebih efektif</label><br>
+            <label><input type="radio" name="question9" value="4"> b. Berkolaborasi dengan rekan sejawat terkait pelibatan orangtua/wali dan masyarakat yang efektif dalam pembelajaran </label><br>
+            <label><input type="radio" name="question9" value="5"> c. Membimbing rekan sejawat untuk dapat melibatkan orangtua/wali dan masyarakat secara efektif dalam pembelajaran </label><br>
+            <label><input type="radio" name="question9" value="1"> d. Memahami penting dan manfaat keterlibatan orangtua/wali dan masyarakat dalam pembelajaran</label><br>
+            <label><input type="radio" name="question9" value="2"> e. Melibatkan orangtua/wali dan masyarakat dalam pembelajaran</label>
+        </div>
+        
+         <div class="question">
+            <h3>10. Pada indikator kompetensi  Keterlibatan dalam organisasi profesi dan jejaring yang lebih luas untuk peningkatan pembelajaran, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question10" value="5"> a. Membimbing rekan sejawat untuk berperan lebih optimal di organisasi profesi dan jejaring yang lebih luas untuk peningkatan kualitas pembelajaran peserta didik</label><br>
+            <label><input type="radio" name="question10" value="3"> b. Mengevaluasi peran dalam organisasi profesi dan jejaring yang lebih luas untuk mengoptimalkan keterlibatan dalam peningkatan kualitas pembelajaran peserta didik</label><br>
+            <label><input type="radio" name="question10" value="4">c. Berkolaborasi dengan rekan sejawat terkait peran yang optimal dalam organisasi profesi dan jejaring yanglebih luas untuk peningkatan kualitas pembelajaran peserta didik</label><br>
+            <label><input type="radio" name="question10" value="1"> d. Memahami Pentingnya keterlibatan dalam organisasi profesi dan jejaring yang lebih luas untuk peningkatan kualitas pembelajaran peserta didik</label><br>
+            <label><input type="radio" name="question10" value="2"> e. Berperan Dalam organisasi profesi danjejaring yang lebih luas untuk peningkatan kualitas pembelajaran peserta didik</label>
+        </div>
+        
+        <div class="question">
+            <h3>11. Pada indikator kompetensi Pengetahuan konten pembelajaran dan cara mengajarkannya, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question11" value="2"> a. Menggunakan konten pembelajaran dan cara mengajarkannya </label><br>
+            <label><input type="radio" name="question11" value="4"> b. Berkolaborasi dengan rekan sejawat terkait pengetahuan konten pembelajaran dan cara mengerjakannya </label><br>
+            <label><input type="radio" name="question11" value="1"> c. Memahami konten pembelajaran dan cara mengajarkannya </label><br>
+            <label><input type="radio" name="question11" value="5"> d. Membimbing rekan sejawat dalam meningkatkan pengetahuan konten pembelajaran dan cara mengerjakannya </label><br>
+            <label><input type="radio" name="question11" value="3"> e. Mengevaluasi konten pembelajaran dan merancang cara perbaikannya </label>
+        </div>
+        
+        <div class="question">
+            <h3>12. Pada indikator kompetensi Karakteristik dan cara belajar peserta didik, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question12" value="5"> a. Membimbing  rekan sejawat dalam meningkatkan pengetahuan dalam menentukan karakteristik yang akan mempengaruhi cara belajar peserta didik </label><br>
+            <label><input type="radio" name="question12" value="4"> b. Berkolaborasi dengan rekan sejawat terkait pengetahuan dalam menentukan karakteristik yang akan mempengaruhi cara belajar peserta didik </label><br>
+            <label><input type="radio" name="question12" value="3"> c. Mengevaluasi pengetahuan dalam menentukan karakteristik yang akan mempengaruhi cara belajar peserta didik dan merencanakan perbaikannya.</label><br>
+            <label><input type="radio" name="question12" value="2"> d. Menggunakan pengetahuan dalam menentukan karakteristik yang akan mempengaruhi cara belajar peserta didik </label><br>
+            <label><input type="radio" name="question12" value="1"> e. Memahami pengetahuan tentang karakteristik yang akan mempengaruhi cara belajar peserta didik </label>
+        </div>
+        
+        <div class="question">
+            <h3>13. Pada indikator kompetensi Kurikulum dan cara menggunakannya, saya merasa yakin bahwa saya sudah</h3>
+            <label><input type="radio" name="question13" value="4"> a. Berkolaborasi dengan rekan sejawat terkait pengetahuan tentang komponen kurikulum dan cara menggunakannya untuk merancang desain pembelajaran </label><br>
+            <label><input type="radio" name="question13" value="1"> b. Memahami komponen kurikulum dan cara menggunakannya untuk merancang desain pembelajarann </label><br>
+            <label><input type="radio" name="question13" value="2"> c. Menggunakan pengetahuan tentang komponen kurikulum dan cara menggunakannya untuk merancang desain pembelajaran </label><br>
+            <label><input type="radio" name="question13" value="5"> d. Membimbing rekan sejawat dalam meningkatkan pengetahuan tentang komponen kurikulum dan cara menggunakannya untuk merancang desain pembelajaran </label><br>
+            <label><input type="radio" name="question13" value="3"> e. Mengevaluasi pengetahuan tentang komponen kurikulum dan cara menggunakannya  untuk merancang desain pembelajaran dan merencanakan perbaikannya </label>
+        </div>
+
+        <button type="button" onclick="calculateScore()">Hitung Poin</button>
+    </form>
+
+    <h2 id="result"></h2>
+
+    <script>
+        function calculateScore() {
+            const form = document.getElementById('reflectionForm');
+            let totalScore = 35;
+
+            const question1 = form.elements['question1'];
+            const question2 = form.elements['question2'];
+            const question3 = form.elements['question3'];
+            const question4 = form.elements['question4'];
+            const question5 = form.elements['question5'];
+            const question6 = form.elements['question6'];
+            const question7 = form.elements['question7'];
+            const question8 = form.elements['question8'];
+            const question9 = form.elements['question9'];
+            const question10 = form.elements['question10'];
+            const question11 = form.elements['question11'];
+            const question12 = form.elements['question12'];
+            const question13 = form.elements['question13'];
+            
+
+            if (question1.value) {
+                totalScore += parseInt(question1.value);
+            }
+            if (question2.value) {
+                totalScore += parseInt(question2.value);
+            }
+            if (question3.value) {
+                totalScore += parseInt(question3.value);
+            }
+            if (question4.value) {
+                totalScore += parseInt(question4.value);
+            }
+            if (question5.value) {
+                totalScore += parseInt(question5.value);
+            }
+            if (question6.value) {
+                totalScore += parseInt(question6.value);
+            }
+            if (question7.value) {
+                totalScore += parseInt(question7.value);
+            }
+            if (question8.value) {
+                totalScore += parseInt(question8.value);
+            }
+            if (question9.value) {
+                totalScore += parseInt(question9.value);
+            }
+            if (question10.value) {
+                totalScore += parseInt(question10.value);
+            }
+            if (question11.value) {
+                totalScore += parseInt(question11.value);
+            }
+            if (question12.value) {
+                totalScore += parseInt(question12.value);
+            }
+            if (question13.value) {
+                totalScore += parseInt(question13.value);
+            }
+
+            document.getElementById('result').innerText = 'Total Poin: ' + totalScore;
+        }
+    </script>
+
+</body>
+</html>
